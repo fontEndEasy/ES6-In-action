@@ -1,1 +1,1 @@
-# es6-action
+# ES6-action
